@@ -1,7 +1,7 @@
 class idr
 {
 helloworld(str) {
-str=str.split(' ').trim()
+str=str.split(' ')
 console.log(str[0])
 if (str[0] == "Hello")
 {
