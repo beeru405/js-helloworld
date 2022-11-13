@@ -4,17 +4,18 @@
   "version": "0.0.2",
   "license": "MIT",
   "main": "./src/index.js",
-  "homepage": "https://github.com/beeru405/js-helloworld#readme",
+  "author": "dhilt <d.alexanov@gmail.com>",
+  "homepage": "https://github.com/dhilt/hello-world-js#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/beeru405/js-helloworld.git"
+    "url": "https://github.com/dhilt/hello-world-js.git"
   },
   "bugs": {
-    "url": "https://github.com/beeru405/js-helloworld/issues"
+    "url": "https://github.com/dhilt/hello-world-js/issues"
   },
   "scripts": {
     "start": "node ./src/index.js",
-    "test": "node ./test/testindex.js"
+    "test": "node ./test/index.js"
   },
   "keywords": [
     "hello",
